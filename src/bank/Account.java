@@ -40,6 +40,9 @@ public class Account {
 
     // Getters => Retornar algo
     
+    public double getBalance() {
+        return balance;
+    }
 
     // Setters => Não tem retorno
 
